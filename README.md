@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou formado em Artes Visuais pelo Instituto Federal de Pernambuco - IFPE e fui aluno do Projeto Start 2022,<br> um projeto feito pela Rede Cidadã em parceria com a Accenture Brasil. <br><br>Em transição de carreira, venho com minha bagagem das artes para o mundo do Front-End, aperfeiçoando em paralelo meus conhecimentos em UX/UI</p>
+<p align="left">Sou formado em Artes Visuais pelo Instituto Federal de Pernambuco - IFPE e fui aluno do Projeto Start 2022,<br> um projeto feito pela Rede Cidadã em parceria com a Accenture Brasil. <br><br>Em transição de carreira, venho com minha bagagem das artes para o mundo do Front-End, aperfeiçoando em paralelo meus conhecimentos em Back-End</p>
 
 ###
 
